@@ -14,7 +14,7 @@
 <tbody>
 <tr>
 <td><a><img src="https://pandas.pydata.org/docs/_static/pandas.svg" alt="Pandas" align="center" width="100"/></a></td>
-<td><a><img src="https://en.wikipedia.org/wiki/NumPy#/media/File:NumPy_logo_2020.svg" alt="Numpy" align="center" width="100"/></a></td>
+<td><a><img src="[https://en.wikipedia.org/wiki/NumPy#/media/File:NumPy_logo_2020.svg](https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg)" alt="Numpy" align="center" width="100"/></a></td>
 <td><a><img src="https://commons.wikimedia.org/wiki/File:SCIPY_2.svg" alt="Numpy" align="center" width="100"/></a></td>
 <td><a><img src="https://fr.wikipedia.org/wiki/Matplotlib#/media/Fichier:Logo_Matplotlib.svg" alt="Numpy" align="center" width="100"/></a></td>
 
