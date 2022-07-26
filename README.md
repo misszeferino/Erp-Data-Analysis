@@ -2,10 +2,10 @@
 
 #### Objectifs du projet:
 
-- 1) Réaliser une jointure de 3 tables (ERP + LIAISON + WEB)
-- 2) Calculer le chiffre d'affaire par produit des ventes en ligne
-- 3) Calculer de chiffre d'affaire total des ventes en ligne
-- 4) Analyser les outliers de la colonne 'Price'
+1) Réaliser une jointure de 3 tables (ERP + LIAISON + WEB)
+2) Calculer le chiffre d'affaire par produit des ventes en ligne
+3) Calculer de chiffre d'affaire total des ventes en ligne
+4) Analyser les outliers de la colonne 'Price'
    - A) Lister les outliers
    - B) Faire une répresentation graphique des outliers
 
